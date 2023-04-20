@@ -1,0 +1,8 @@
+9375d468b3991b1c9b0b19f5929546a0 *DESCRIPTION
+b0ecf1d097ce7fc4e8a7a47d5d0a203f *NAMESPACE
+0af1445e7240540623ad918a52ca7c8a *R/parm_sens.R
+311cc0dab7d88b6fbd0b74c6216e474c *R/state_sens.R
+d4960f868fbfffbba342b20d77c4d9d1 *build/partial.rdb
+3d45bd2f3808393a1fa761902f56e4d9 *build/tdsa.pdf
+90de20aaed3d6553524526e68f706736 *man/parm_sens.Rd
+1d6d32c31ecbf7af0d6e91c22ef0c634 *man/state_sens.Rd
